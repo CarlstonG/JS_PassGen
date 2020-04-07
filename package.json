@@ -1,0 +1,16 @@
+{
+  "name": "js_passgen",
+  "version": "1.0.0",
+  "description": "Password Generator made using Vanilla JS",
+  "main": "index.js",
+  "homepage": "https://CarlstonG.github.io/JS_PassGen",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d DIR"
+  },
+  "author": "Carlston G",
+  "license": "MIT"
+}
